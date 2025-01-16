@@ -11,7 +11,8 @@ This project is a proof of concept for demonstrating the capabilities of LINQ in
 
 ## Results
 Memory usages increases a lot when using lists.
-Creating lists beforehand takes a lot of  time, that's why the number of lists (*finalList*) created using IEnumerable is huge in comparisson to when wee use List.
+
+Creating lists beforehand takes a lot of  time, that's why the number of lists (*finalList*) created using IEnumerable is huge in comparisson to when we use List.
 
 ### Metrics
 **First three IEnumerable runs:**
@@ -44,7 +45,7 @@ Creating lists beforehand takes a lot of  time, that's why the number of lists (
 
 ### Memory Usage
 
-![Memory usage](images/Memory usage.png)
+![Memory usage](https://github.com/fcnatra/LinqAnotherPoc/blob/main/images/Memory%20usage.png)
 
 ## Contributing
 
