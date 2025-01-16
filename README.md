@@ -15,6 +15,7 @@ Creating lists beforehand takes a lot of  time, that's why the number of lists (
 
 ### Metrics
 **First three IEnumerable runs:**
+
     Size of finalList: 333390
     Used memory: 1032MB
     Elapsed time: 00:00:05.0063396
@@ -28,6 +29,7 @@ Creating lists beforehand takes a lot of  time, that's why the number of lists (
     Elapsed time: 00:00:05.0012438
 
 **First three List runs:**
+
     Size of finalList: 3
     Used memory: 13430MB
     Elapsed time: 00:00:14.1761166
@@ -41,6 +43,7 @@ Creating lists beforehand takes a lot of  time, that's why the number of lists (
     Elapsed time: 00:00:06.3790724
 
 ### Memory Usage
+
 ![Memory usage](images/Memory usage.png)
 
 ## Contributing
